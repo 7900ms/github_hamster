@@ -1,3 +1,12 @@
 # hamster.txt
 #
 # http://abowman.com/google-modules/hamster/
+# http://archive.is/YavA7
+
+#
+
+embed code
+
+<object type="application/x-shockwave-flash" style="outline:none;" data="http://cdn.abowman.com/widgets/hamster/hamster.swf?" width="300" height="225"><param name="movie" value="http://cdn.abowman.com/widgets/hamster/hamster.swf?"></param><param name="AllowScriptAccess" value="always"></param><param name="wmode" value="opaque"></param></object>
+
+
